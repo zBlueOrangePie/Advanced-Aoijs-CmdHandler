@@ -1,7 +1,10 @@
-# Advanced-Aoijs-CmdHandler
-A Advanced Aoijs Handler Free To Use
+# Introduction
+This Is A Advanced Aoi.js Command Handler That Is Free To Use
 
-# How To Start?
-
-In index.js file find the prefix and change the prefix you want
-To add your bot's token go to config.json and add your bot's token
+# How To Add Your Bot Token?
+In config.json line 2
+```env
+{
+ "token": "YOURBOTTOKEN" "Change The YOURBOTTOKEN to your Bot's Token"
+}
+```
